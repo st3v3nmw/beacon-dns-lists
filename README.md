@@ -1,6 +1,8 @@
 # Blocklists & Allowlists for Beacon DNS
 
 Since we primarily use blocklists as filters and allowlists to remove false positives in a category,\
-allowlists have higher precedence than blocklists. There should be only one allowlist per category.
+allowlists have higher precedence than blocklists.
 
-Please report false positives here or in the upstream blocklists.
+The goal is to have sensible defaults that work well for all users.
+
+Please report false positives in the default blocklists here or in the upstream blocklists.
