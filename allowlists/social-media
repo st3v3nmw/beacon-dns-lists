@@ -1,5 +1,8 @@
 # Make sure messaging apps still work
+chat-e2ee-mini.facebook.com
+edge-chat.facebook.com
 edge-mqtt.facebook.com
+messenger.com
 mqtt-mini.facebook.com
 graph.facebook.com
 telegram.org

@@ -1,2 +1,3 @@
 # Needed for Discord's mail verification
+# Discord itself is blocked by the social media category
 click.discord.com
